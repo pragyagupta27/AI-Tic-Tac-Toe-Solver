@@ -1,6 +1,7 @@
 # AI-Tic-Tac-Toe-Solver
 An implementation of Minimax AI Algorithm on Tic-Tac-Toe.
-https://pragyagupta27.github.io/Tic-Tac-Toe-MiniMaxAI/index.html
+Check it out in the below link.
+https://pragyagupta27.github.io/AI-Tic-Tac-Toe-Solver/
 
 ## Minimax Algorithm
 Minimax is a recursive algorithm which is used to choose an optimal move for a player assuming that the opponent is also playing optimally. As its name suggests, its goal is to minimize the maximum loss (minimize the worst case scenario).
